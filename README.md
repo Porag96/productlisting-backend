@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Backend For Product Listing Application
 
 Steps to run this project:
 
